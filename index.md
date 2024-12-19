@@ -35,6 +35,8 @@ Abstract: This presentation explores the critical potential of curatorial inquir
 
 About the Speaker: Dr. Rosa Wevers works as Senior Researcher Art & Technology at Research Centre Art & Society (part of Minerva Art Academy in Groningen). She is co-curator at Noorderlicht (platform for lens-based media), and host of the podcast Kunstmatig. In her research and curatorial practice, Rosa explores the relations between art, technology and society. Rosa obtained her PhD at Utrecht University. Her project explored how contemporary art exhibitions confront visitors with critical perspectives on surveillance and engage them in strategies of resistance. As part of her PhD, Rosa curated the exhibition 'Face Value' in 2021, in collaboration with 2021 IMPAKT [Center for Media Culture] and NFF.
 
+---
+
 **<u>Past seminars:</u>**
 
 ### #1 — Inaugural Seminar: 20 November 2024, Lab42, L3.33, 15:30-17:00
