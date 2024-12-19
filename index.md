@@ -1,11 +1,13 @@
 ---
 layout: default
-title: AI, Culture, and Society
+title: AI, Culture, and Society Seminar
 ---
 
-## Seminar Series: AI, Visual Culture, and Power
+A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at Lab42 in the Amsterdam Science Park from 15:30 to 17:00 on Wednesdays once a month. 
 
-### Seminar 1 — Inaugural Seminar
+## Theme: AI, Visual Culture, and Power
+
+### #1 — Inaugural Seminar
 
 **20 November 2024, Lab42, L3.33, 15:30-17:00**
 
