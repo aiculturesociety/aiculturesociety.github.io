@@ -7,9 +7,7 @@ A collaboration between the Multimedia Analytics research group at IvI and the A
 
 ## Theme: AI, Visual Culture, and Power
 
-### #1 — Inaugural Seminar
-
-**20 November 2024, Lab42, L3.33, 15:30-17:00**
+### #1 — Inaugural Seminar: 20 November 2024, Lab42, L3.33, 15:30-17:00
 
 ***Speaker 1: Dr Abdallah El Ali (CWI, UU)***
 
