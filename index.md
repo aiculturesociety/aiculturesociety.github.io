@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Seminar Series: AI, Visual Culture, and Power
 
 ### Seminar 1 — Inaugural Seminar
