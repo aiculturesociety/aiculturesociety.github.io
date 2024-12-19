@@ -1,5 +1,6 @@
 ---
 layout: default
+title: AI, Culture, and Society
 ---
 
 ## Seminar Series: AI, Visual Culture, and Power
