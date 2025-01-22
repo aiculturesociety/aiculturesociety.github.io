@@ -3,7 +3,7 @@ layout: default
 title: AI, Culture, and Society Seminar
 ---
 
-A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at Lab42 in the Amsterdam Science Park from 15:30 to 17:00 on Wednesdays once a month. Organized by Houda Lamqaddam, Nanne van Noord, Bharath Ganesh, and Gabriel Pereira. 
+A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at Lab42 in the Amsterdam Science Park from 15:30 to 17:00 once a month. Organized by Houda Lamqaddam, Nanne van Noord, Bharath Ganesh, and Gabriel Pereira. 
 
 ## Theme: AI, Visual Culture, and Power
 
