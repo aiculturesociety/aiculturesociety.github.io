@@ -7,7 +7,7 @@ A collaboration between the Multimedia Analytics research group at IvI and the A
 
 ## Theme: AI, Visual Culture, and Power
 
-### #2 — AI in Film, From Production to Analysis: 30 January 2024, 15:30–17:00, Lab42, Room L3.36, Amsterdam Science Park
+### #2 — AI in Film, From Production to Analysis: 30 January 2025, 15:30–17:00, Lab42, Room L3.36, Amsterdam Science Park
 
 This seminar will delve into the role of AI in film, exploring its application in both creative production and critical study.
 
@@ -27,7 +27,7 @@ Abstract: Recent advancements in computer vision have piqued the interest of fil
 
 About the speaker: Isadora Campregher Paiva is a lecturer in Film Studies at the University of Amsterdam (UvA), a PhD candidate at UvA’s Amsterdam School for Heritage, Memory and Material Culture and a research associate in the project Social Sciences & Humanities Open Cloud (SSHOC-NL). She has a Master's in Sociology from the Universidade Federal do Rio Grande do Sul (UFRGS) and an MA in Audiovisual and Cinema Studies from the Goethe University Frankfurt, where she also worked as a lecturer and a research associate on the project "Digital Cinema-Hub". Her research focuses on the application of digital methods to the study of film historical questions. This particular presentation is the result of work undertaken at UvA’s CREATE Lab together with a team of collaborators.
 
-### #3 — The creative cultures of AI: 19 February 2024, Lab42, L3.36, 15:30-17:00
+### #3 — The creative cultures of AI: 19 February 2025, Lab42, L3.36, 15:30-17:00
 ***Speaker 1: Dr Kim Baraka (VU)***
 
 Title: How the performing arts can help us develop more capable interactive robots
