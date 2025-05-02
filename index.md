@@ -7,7 +7,22 @@ A collaboration between the Multimedia Analytics research group at IvI and the A
 
 ## Theme: AI, Visual Culture, and Power
 
+### #4 — Compress, Retrieve, Generate: Searching Collections in the Age of Generative AI Models: 8 May 2025, Lab42, L1.07, 15:30-17:00
+
+***Speaker: Dr Jaap Kamps (UvA)***
+
+Title: Compress, Retrieve, Generate: Searching Collections in the Age of Generative AI Models
+
+Abstract: Generative information access models enable revolutionary progress in information retrieval (IR) and natural language processing (NLP).  The main drivers are ever larger language models trained on endless next token prediction (or image patches).  By nature, this results in a text (image) generation or completion model. This is fine for chatbots and free conversation, but not for searching specific collections or finding reliable information. Retrieval-augmented generation (RAG) is essential for grounded, evidence-based answers, but are currently limited in the context we can provide to the model. What is the current state of the art in using RAG for searching collections?
+
+About the Speaker: Jaap Kamps is associate professor of Information Retrieval at the Faculty of Humanities. His research is part of the Institute for Logic, Language, and Computation. Both are part of the University of Amsterdam.
+
+---
+
+**<u>Past seminars:</u>**
+
 ### #3 — The creative cultures of AI: 19 February 2025, Lab42, L3.36, 15:30-17:00
+
 ***Speaker 1: Dr Kim Baraka (VU)***
 
 Title: How the performing arts can help us develop more capable interactive robots
@@ -23,10 +38,6 @@ Title: Algorithmic Surveillance: A curatorial Inquiry
 Abstract: This presentation explores the critical potential of curatorial inquiry in the realm of algorithmic surveillance. I reflect on the exhibition ‘Face Value’ (2021), a research-exhibition (Sheikh 2015) I curated in collaboration with IMPAKT [Centre for Media Culture]. Through a series of artistic interventions, ‘Face Value’ sought to defamiliarize the normalized technologies of algorithmic surveillance, revealing their hidden politics. By creating these defamiliarizations, the exhibition aimed to engage visitors not just in sense-making but also in sensing surveillance, ultimately offering tools for them to become more responsive to it. In doing so, the research-exhibition aimed to foster a critical surveillance spectatorship.
 
 About the Speaker: Dr. Rosa Wevers works as Senior Researcher Art & Technology at Research Centre Art & Society (part of Minerva Art Academy in Groningen). She is co-curator at Noorderlicht (platform for lens-based media), and host of the podcast Kunstmatig. In her research and curatorial practice, Rosa explores the relations between art, technology and society. Rosa obtained her PhD at Utrecht University. Her project explored how contemporary art exhibitions confront visitors with critical perspectives on surveillance and engage them in strategies of resistance. As part of her PhD, Rosa curated the exhibition 'Face Value' in 2021, in collaboration with 2021 IMPAKT [Center for Media Culture] and NFF.
-
----
-
-**<u>Past seminars:</u>**
 
 ### #2 — AI in Film, From Production to Analysis: 30 January 2025, 15:30–17:00, Lab42, Room L3.36, Amsterdam Science Park
 
