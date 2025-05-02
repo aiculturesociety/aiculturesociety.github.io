@@ -7,7 +7,7 @@ A collaboration between the Multimedia Analytics research group at IvI and the A
 
 ## Theme: AI, Visual Culture, and Power
 
-### #4 — Compress, Retrieve, Generate: Searching Collections in the Age of Generative AI Models: 8 May 2025, Lab42, L1.07, 15:30-17:00
+### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, Lab42, L1.07, 15:30-17:00
 
 ***Speaker: Dr Jaap Kamps (UvA)***
 
