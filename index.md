@@ -3,11 +3,13 @@ layout: default
 title: AI, Culture, and Society Seminar
 ---
 
-A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at Lab42 in the Amsterdam Science Park from 15:30 to 17:00 once a month. Organized by Houda Lamqaddam, Nanne van Noord, Bharath Ganesh, and Gabriel Pereira. 
+A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at the Amsterdam Science Park from 15:30 to 17:00 once a month. Organized by Houda Lamqaddam, Nanne van Noord, Bharath Ganesh, and Gabriel Pereira. 
 
 ## Theme: AI, Visual Culture, and Power
 
-### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, Lab42, L1.07, 15:30-17:00
+### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, ASP L1.04, 15:30-17:00 
+
+*(Please note the room change: we will meet at ASP L1.04!)*
 
 ***Speaker: Dr Jaap Kamps (UvA)***
 
