@@ -7,6 +7,20 @@ A collaboration between the Multimedia Analytics research group at IvI and the A
 
 ## Theme: AI, Visual Culture, and Power
 
+### #5 — Generative Models and Art Analysis: New Tools, Old Biases: 5 June 2025, ASP L1.07, 15:30-17:00 
+
+***Speaker: Dr Noa Garcia (Osaka University)***
+
+Title: Generative Models and Art Analysis: New Tools, Old Biases
+
+Abstract: Image generation has transformed how we create and engage with visual content, offering new tools and opportunities for art historical analysis. However, text-to-image models frequently rely on implicit assumptions that reinforce social stereotypes. In this talk, we will explore this duality: on one hand, the potential of image generation methods to enable novel computational approaches to painting analysis; while on the other hand, how these tools contribute to the perpetuation of unfairness and discrimination. By examining the technical challenges of quantifying societal stereotypes in generated imagery, we will also see how synthetic images can affect the development of future computer vision models.
+
+Bio: Noa Garcia is an associate professor at the Institute for Advanced Co-Creation Studies and  D3 Center, The University of Osaka, Japan. She completed her Ph. D in Computer Science from Aston University, United Kingdom, specializing in multimodal retrieval and instance-level recognition. Her research investigates the artistic and social implications of AI through a technical lens, focusing on image analysis and generation. 
+
+---
+
+**<u>Past seminars:</u>**
+
 ### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, ASP L1.04, 15:30-17:00 
 
 *(Please note the room change: we will meet at ASP L1.04!)*
@@ -18,10 +32,6 @@ Title: Compress, Retrieve, Generate: Searching Collections in the Age of Generat
 Abstract: Generative information access models enable revolutionary progress in information retrieval (IR) and natural language processing (NLP).  The main drivers are ever larger language models trained on endless next token prediction (or image patches).  By nature, this results in a text (image) generation or completion model. This is fine for chatbots and free conversation, but not for searching specific collections or finding reliable information. Retrieval-augmented generation (RAG) is essential for grounded, evidence-based answers, but are currently limited in the context we can provide to the model. What is the current state of the art in using RAG for searching collections?
 
 About the Speaker: Jaap Kamps is associate professor of Information Retrieval at the Faculty of Humanities. His research is part of the Institute for Logic, Language, and Computation. Both are part of the University of Amsterdam.
-
----
-
-**<u>Past seminars:</u>**
 
 ### #3 — The creative cultures of AI: 19 February 2025, Lab42, L3.36, 15:30-17:00
 
