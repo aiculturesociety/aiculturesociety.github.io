@@ -9,7 +9,7 @@ Organized by [Delfina S. Martinez Pandiani](https://www.humandigitalist.com/), [
 
 
 ## AIC&S ILLC Seminar Series  
-### #5 — Digital Research Infrastructures in Europe
+### #6 — Digital Research Infrastructures in Europe
 **12 December 2025, Lab42 (L2.07), 15:30–17:00**
 
 #### Speaker 1: Professor Antoine Doucet (University of La Rochelle, France)
