@@ -3,7 +3,46 @@ layout: default
 title: AI, Culture, and Society Seminar
 ---
 
-A collaboration between the Multimedia Analytics research group at IvI and the AI, Culture, and Society research group at the ILLC. All events will take place at the Amsterdam Science Park from 15:30 to 17:00 once a month. Organized by Houda Lamqaddam, Nanne van Noord, Bharath Ganesh, and Gabriel Pereira. 
+A collaboration between the [Multimedia Analytics Lab Amsterdam (MultiX)](https://multix.io/) at the [Informatics Institute](https://ivi.uva.nl/) and the [AI, Culture, and Society (AICS)](https://www.illc.uva.nl/Research/Organisation/Research-Units/AICS/) research unit at the [ILLC](https://www.illc.uva.nl/), both at the [University of Amsterdam](https://www.uva.nl/en). 
+All events will take place at the Amsterdam Science Park from 15:30 to 17:00 once a month. 
+Organized by [Delfina S. Martinez Pandiani](https://www.humandigitalist.com/), [Nanne van Noord](https://nanne.github.io/), [Claudia Montanaro](https://www.illc.uva.nl/People/Staff/person/5773/Claudia-Montanaro), [David Graus](https://graus.nu/) & [Davide Beraldo](https://www.illc.uva.nl/People/Table/person/5285/Dr-Davide-Beraldo). 
+
+
+## AIC&S ILLC Seminar Series  
+### #5 — Digital Research Infrastructures in Europe
+**12 December 2025, Lab42 (L2.07), 15:30–17:00**
+
+#### Speaker 1: Professor Antoine Doucet (University of La Rochelle, France)
+
+**Title:** Launching the AI4DH Centre of Excellence
+
+**Abstract:**  
+Professor Doucet presents the AI4DH Centre of Excellence (launched February 2025), which aims to advance AI research for Digital Humanities (DH), boost AI literacy within DH, and provide training, capacity building, and project development support. The Centre seeks to bridge gaps between SSH scholars and infrastructures such as DARIAH and CLARIN, helping to define realistic research questions and build partnerships for funded projects. This talk introduces a new service and invites community feedback rather than offering a scientific presentation.
+
+**Bio:**  
+Antoine Doucet is Full Professor at the University of La Rochelle, France. He founded the AI4DH Centre of Excellence in Ljubljana as ERA Chair in AI4DH, supporting DH researchers with AI-related tools, training, and project development. His work focuses on bridging AI and the Digital Humanities and helping scholars shape realistic research questions and collaborations.
+
+*More information: [University profile](http://pageperso.univ-lr.fr/antoine.doucet/) and [AI4DH Centre of Excellence](https://ai4dh.eu/)*
+
+
+####  Speaker 2: Dr Marijn Koolen (Huygens Institute for the History of the Netherlands)
+
+**Title:** Reflections on Digital Research Infrastructures in the Netherlands
+
+**Abstract:**  
+Dr Koolen reflects on digital research infrastructures for Digital Humanities in the Netherlands, drawing on his experience across national DH efforts, including current work such as Data Scopes and Republic.
+
+**Bio:**  
+Marijn Koolen is a researcher and developer at the Huygens Institute for the History of the Netherlands. He works across Digital History, Computational Literary Studies, Information Retrieval, and Recommender Systems. He previously served as Assistant Professor of Information Science and Digital Humanities (2011–2016) at the Institute of Logic, Language and Computation and the Media & Information group of the Faculty of Humanities, University of Amsterdam. In 2016 he was senior scientific programmer at the Netherlands Institute for Sound and Vision, working on CLARIAH, the national research infrastructure for Digital Humanities.
+
+*More information: [Personal website](https://marijnkoolen.com/)*
+
+
+
+---
+
+
+**<u>Past seminars:</u>**
 
 ## Theme: AI, Visual Culture, and Power
 
@@ -17,9 +56,6 @@ Abstract: Image generation has transformed how we create and engage with visual 
 
 Bio: Noa Garcia is an associate professor at the Institute for Advanced Co-Creation Studies and  D3 Center, The University of Osaka, Japan. She completed her Ph. D in Computer Science from Aston University, United Kingdom, specializing in multimodal retrieval and instance-level recognition. Her research investigates the artistic and social implications of AI through a technical lens, focusing on image analysis and generation. 
 
----
-
-**<u>Past seminars:</u>**
 
 ### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, ASP L1.04, 15:30-17:00 
 
