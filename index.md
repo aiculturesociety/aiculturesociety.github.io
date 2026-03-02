@@ -5,37 +5,50 @@ title: AI, Culture, and Society Seminar
 
 A collaboration between the [Multimedia Analytics Lab Amsterdam (MultiX)](https://multix.io/) at the [Informatics Institute](https://ivi.uva.nl/) and the [AI, Culture, and Society (AICS)](https://www.illc.uva.nl/Research/Organisation/Research-Units/AICS/) research unit at the [ILLC](https://www.illc.uva.nl/), both at the [University of Amsterdam](https://www.uva.nl/en). 
 All events will take place at the Amsterdam Science Park from 15:30 to 17:00 once a month. 
-Organized by [Delfina S. Martinez Pandiani](https://www.humandigitalist.com/), [Nanne van Noord](https://nanne.github.io/), [Claudia Montanaro](https://www.illc.uva.nl/People/Staff/person/5773/Claudia-Montanaro), [David Graus](https://graus.nu/) & [Davide Beraldo](https://www.illc.uva.nl/People/Table/person/5285/Dr-Davide-Beraldo). 
+Organized by [Delfina S. Martinez Pandiani](https://www.humandigitalist.com/), [Nanne van Noord](https://nanne.github.io/), [Claudia Montanaro](https://www.illc.uva.nl/People/Staff/person/5773/Claudia-Montanaro), [David Graus](https://graus.nu/) & [Davide Beraldo](https://www.illc.uva.nl/People/Table/person/5285/Dr-Davide-Beraldo).
 
+[Artificial Intelligence, Culture & Society (AIC&S)](https://www.illc.uva.nl/Research/Organisation/Research-Units/AICS/) is one of the research units of the [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en). The group examines how algorithmic technologies shape — and can be shaped by — social, cultural, and ethical concerns, combining perspectives from digital humanities, media studies, and computational social science.
 
-## AIC&S ILLC Seminar Series  
-### #6 — Digital Research Infrastructures in Europe
-**12 December 2025, Lab42 (L2.07), 15:30–17:00**
+**Lost in translation: Translating between disciplinary cultures via abstract concepts**
 
-#### Speaker 1: Professor Antoine Doucet (University of La Rochelle, France)
+The AIC&S Seminar Series explores how, under the impulse of "Artificial Intelligence" technology, abstract concepts (such as taste, trust, and agency) are used and translated differently across disciplinary cultures. In particular, it aims to bring presenters from different disciplines into dialogue — bridging the social sciences, humanities, and computer science — to reflect on how terminology that may sound familiar and unquestioned to many is (re)defined, operationalized, and translated across domains.
 
-**Title:** Launching the AI4DH Centre of Excellence
+## AIC&S ILLC Seminar Series
+### #7 — Abstract Concepts Themselves <a href="#seminar-7">🔗</a>
+{: #seminar-7}
+**13 March 2026, Lab42 (L2.06), 15:30–17:00**
 
-**Abstract:**  
-Professor Doucet presents the AI4DH Centre of Excellence (launched February 2025), which aims to advance AI research for Digital Humanities (DH), boost AI literacy within DH, and provide training, capacity building, and project development support. The Centre seeks to bridge gaps between SSH scholars and infrastructures such as DARIAH and CLARIN, helping to define realistic research questions and build partnerships for funded projects. This talk introduces a new service and invites community feedback rather than offering a scientific presentation.
+In this session, we will explore the challenges of defining, labeling, and reasoning about abstract concepts themselves in relation to AI applications. Presenters will examine how AI systems attempt to identify ideas in image and video data, highlighting the limits of current computational approaches and the ways disciplinary perspectives shape these understandings. By bringing together insights from cultural data analysis, computer vision, and video understanding, the session invites a reflection on how abstract concepts are operationalized, translated, and negotiated across domains.
 
-**Bio:**  
-Antoine Doucet is Full Professor at the University of La Rochelle, France. He founded the AI4DH Centre of Excellence in Ljubljana as ERA Chair in AI4DH, supporting DH researchers with AI-related tools, training, and project development. His work focuses on bridging AI and the Digital Humanities and helping scholars shape realistic research questions and collaborations.
+**Schedule:**
+- 15:30–16:00 — Presentation by Dr. Delfina S. Martinez Pandiani
+- 16:00–16:30 — Presentation by Gowreesh Mago
+- 16:30–17:00 — Discussion & Q&A
+- 17:00 onwards — Drinks!
 
-*More information: [University profile](http://pageperso.univ-lr.fr/antoine.doucet/) and [AI4DH Centre of Excellence](https://ai4dh.eu/)*
+#### Speaker 1: Dr. Delfina S. Martinez Pandiani (University of Amsterdam, The Netherlands)
 
+**Title:** The Wicked Problem of Naming the Intangible: Abstract concepts, binary thinking, and computer vision labels.
 
-####  Speaker 2: Dr Marijn Koolen (Huygens Institute for the History of the Netherlands)
+**Abstract:**
+As computer vision applications rapidly expand, the pressing challenge of accurately labeling abstract concepts in visual media comes into focus, requiring a close examination of the interplay between visual data, nuanced cultural meanings, and artificial intelligence (AI). This work discusses the role these concepts play in automatic visual indexing, as well as the ways in which they expose how binary frameworks curtail technical performance and perpetuate power dynamics. To address this, the paper draws upon insights from cognitive neuroscience research and advocates for a more comprehensive, queer, and situated understanding of these concepts. This talk brings to light the limitations of relying on binary thinking to tackle these inherently intricate "wicked problems."
 
-**Title:** Reflections on Digital Research Infrastructures in the Netherlands
+**Bio:**
+Dr. Martinez Pandiani is Assistant Professor of Cultural Data Analysis at the University of Amsterdam, at the Institute for Logic, Language and Computation (ILLC) and the Department of Media Studies. Delfina's work explores how identity, toxicity, and vulnerability are computationally modeled in datafied environments. They hold a PhD in Computer Science and specialize in human-centered, explainable AI for multimodal analytics, aiming to surface new ways of thinking about power, representation, and technological change.
 
-**Abstract:**  
-Dr Koolen reflects on digital research infrastructures for Digital Humanities in the Netherlands, drawing on his experience across national DH efforts, including current work such as Data Scopes and Republic.
+*More information: [University profile](https://www.uva.nl/en/profile/m/a/d.s.c.martinez-pandiani/d.s.c.martinez-pandiani.html)*
 
-**Bio:**  
-Marijn Koolen is a researcher and developer at the Huygens Institute for the History of the Netherlands. He works across Digital History, Computational Literary Studies, Information Retrieval, and Recommender Systems. He previously served as Assistant Professor of Information Science and Digital Humanities (2011–2016) at the Institute of Logic, Language and Computation and the Media & Information group of the Faculty of Humanities, University of Amsterdam. In 2016 he was senior scientific programmer at the Netherlands Institute for Sound and Vision, working on CLARIAH, the national research infrastructure for Digital Humanities.
+#### Speaker 2: Gowreesh Mago (HAVA Lab, University of Amsterdam)
 
-*More information: [Personal website](https://marijnkoolen.com/)*
+**Title:** Looking beyond the obvious: Abstract concepts and video understanding in the era of Foundation models
+
+**Abstract:**
+Video understanding has advanced remarkably in recent years. Powered by deeper neural networks and large-scale datasets, machines can now reliably identify what is concretely visible in video frames: objects, actions, events, and scenes. Yet humans possess a distinctive capability that remains largely out of reach for current systems: the ability to perceive abstract concepts such as justice, freedom, and togetherness. Recognizing abstract concepts in video represents a crucial open challenge, one that demands reasoning across multiple semantic levels and drawing on rich contextual information. In this talk, I will discuss the recent progress in foundation models and examine what these advances have solved, and what continues to remain as a fundamental challenge.
+
+**Bio:**
+Gowreesh Mago is a PhD candidate at the HAVA (Human-Aligned Video AI) Lab, a new interdisciplinary lab at the University of Amsterdam, where he works at the intersection of video understanding and responsible marketing under the supervision of Pascal Mettes and Stevan Rudinac. His research focuses on fundamental challenges in video understanding, with particular emphasis on abstract concepts and their applications in business, marketing, and advertising.
+
+*More information: [Personal profile](https://gowreesh-mago.github.io/)*
 
 
 
@@ -44,9 +57,33 @@ Marijn Koolen is a researcher and developer at the Huygens Institute for the His
 
 **<u>Past seminars:</u>**
 
+### #6 — Digital Research Infrastructures in Europe: 12 December 2025, Lab42 (L2.07), 15:30–17:00 <a href="#seminar-6">🔗</a>
+{: #seminar-6}
+
+***Speaker 1: Professor Antoine Doucet (University of La Rochelle, France)***
+
+Title: Launching the AI4DH Centre of Excellence
+
+Abstract: Professor Doucet presents the AI4DH Centre of Excellence (launched February 2025), which aims to advance AI research for Digital Humanities (DH), boost AI literacy within DH, and provide training, capacity building, and project development support. The Centre seeks to bridge gaps between SSH scholars and infrastructures such as DARIAH and CLARIN, helping to define realistic research questions and build partnerships for funded projects. This talk introduces a new service and invites community feedback rather than offering a scientific presentation.
+
+About the Speaker: Antoine Doucet is Full Professor at the University of La Rochelle, France. He founded the AI4DH Centre of Excellence in Ljubljana as ERA Chair in AI4DH, supporting DH researchers with AI-related tools, training, and project development. His work focuses on bridging AI and the Digital Humanities and helping scholars shape realistic research questions and collaborations.
+
+*More information: [University profile](http://pageperso.univ-lr.fr/antoine.doucet/) and [AI4DH Centre of Excellence](https://ai4dh.eu/)*
+
+***Speaker 2: Dr Marijn Koolen (Huygens Institute for the History of the Netherlands)***
+
+Title: Reflections on Digital Research Infrastructures in the Netherlands
+
+Abstract: Dr Koolen reflects on digital research infrastructures for Digital Humanities in the Netherlands, drawing on his experience across national DH efforts, including current work such as Data Scopes and Republic.
+
+About the Speaker: Marijn Koolen is a researcher and developer at the Huygens Institute for the History of the Netherlands. He works across Digital History, Computational Literary Studies, Information Retrieval, and Recommender Systems. He previously served as Assistant Professor of Information Science and Digital Humanities (2011–2016) at the Institute of Logic, Language and Computation and the Media & Information group of the Faculty of Humanities, University of Amsterdam. In 2016 he was senior scientific programmer at the Netherlands Institute for Sound and Vision, working on CLARIAH, the national research infrastructure for Digital Humanities.
+
+*More information: [Personal website](https://marijnkoolen.com/)*
+
 ## Theme: AI, Visual Culture, and Power
 
-### #5 — Generative Models and Art Analysis: New Tools, Old Biases: 5 June 2025, ASP L1.07, 15:30-17:00 
+### #5 — Generative Models and Art Analysis: New Tools, Old Biases: 5 June 2025, ASP L1.07, 15:30-17:00 <a href="#seminar-5">🔗</a>
+{: #seminar-5}
 
 ***Speaker: Dr Noa Garcia (Osaka University)***
 
@@ -57,7 +94,8 @@ Abstract: Image generation has transformed how we create and engage with visual 
 Bio: Noa Garcia is an associate professor at the Institute for Advanced Co-Creation Studies and  D3 Center, The University of Osaka, Japan. She completed her Ph. D in Computer Science from Aston University, United Kingdom, specializing in multimodal retrieval and instance-level recognition. Her research investigates the artistic and social implications of AI through a technical lens, focusing on image analysis and generation. 
 
 
-### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, ASP L1.04, 15:30-17:00 
+### #4 — Searching Collections in the Age of Generative AI Models: 8 May 2025, ASP L1.04, 15:30-17:00 <a href="#seminar-4">🔗</a>
+{: #seminar-4}
 
 *(Please note the room change: we will meet at ASP L1.04!)*
 
@@ -69,7 +107,8 @@ Abstract: Generative information access models enable revolutionary progress in 
 
 About the Speaker: Jaap Kamps is associate professor of Information Retrieval at the Faculty of Humanities. His research is part of the Institute for Logic, Language, and Computation. Both are part of the University of Amsterdam.
 
-### #3 — The creative cultures of AI: 19 February 2025, Lab42, L3.36, 15:30-17:00
+### #3 — The creative cultures of AI: 19 February 2025, Lab42, L3.36, 15:30-17:00 <a href="#seminar-3">🔗</a>
+{: #seminar-3}
 
 ***Speaker 1: Dr Kim Baraka (VU)***
 
@@ -87,7 +126,8 @@ Abstract: This presentation explores the critical potential of curatorial inquir
 
 About the Speaker: Dr. Rosa Wevers works as Senior Researcher Art & Technology at Research Centre Art & Society (part of Minerva Art Academy in Groningen). She is co-curator at Noorderlicht (platform for lens-based media), and host of the podcast Kunstmatig. In her research and curatorial practice, Rosa explores the relations between art, technology and society. Rosa obtained her PhD at Utrecht University. Her project explored how contemporary art exhibitions confront visitors with critical perspectives on surveillance and engage them in strategies of resistance. As part of her PhD, Rosa curated the exhibition 'Face Value' in 2021, in collaboration with 2021 IMPAKT [Center for Media Culture] and NFF.
 
-### #2 — AI in Film, From Production to Analysis: 30 January 2025, 15:30–17:00, Lab42, Room L3.36, Amsterdam Science Park
+### #2 — AI in Film, From Production to Analysis: 30 January 2025, 15:30–17:00, Lab42, Room L3.36, Amsterdam Science Park <a href="#seminar-2">🔗</a>
+{: #seminar-2}
 
 This seminar will delve into the role of AI in film, exploring its application in both creative production and critical study.
 
@@ -107,7 +147,8 @@ Abstract: Recent advancements in computer vision have piqued the interest of fil
 
 About the speaker: Isadora Campregher Paiva is a lecturer in Film Studies at the University of Amsterdam (UvA), a PhD candidate at UvA’s Amsterdam School for Heritage, Memory and Material Culture and a research associate in the project Social Sciences & Humanities Open Cloud (SSHOC-NL). She has a Master's in Sociology from the Universidade Federal do Rio Grande do Sul (UFRGS) and an MA in Audiovisual and Cinema Studies from the Goethe University Frankfurt, where she also worked as a lecturer and a research associate on the project "Digital Cinema-Hub". Her research focuses on the application of digital methods to the study of film historical questions. This particular presentation is the result of work undertaken at UvA’s CREATE Lab together with a team of collaborators.
 
-### #1 — Inaugural Seminar: 20 November 2024, Lab42, L3.33, 15:30-17:00
+### #1 — Inaugural Seminar: 20 November 2024, Lab42, L3.33, 15:30-17:00 <a href="#seminar-1">🔗</a>
+{: #seminar-1}
 
 ***Speaker 1: Dr Abdallah El Ali (CWI, UU)***
 
