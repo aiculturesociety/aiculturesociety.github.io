@@ -7,6 +7,10 @@ A collaboration between the [Multimedia Analytics Lab Amsterdam (MultiX)](https:
 All events will take place at the Amsterdam Science Park from 15:30 to 17:00 once a month. 
 Organized by [Delfina S. Martinez Pandiani](https://www.humandigitalist.com/), [Nanne van Noord](https://nanne.github.io/), [Claudia Montanaro](https://www.illc.uva.nl/People/Staff/person/5773/Claudia-Montanaro), [David Graus](https://graus.nu/) & [Davide Beraldo](https://www.illc.uva.nl/People/Table/person/5285/Dr-Davide-Beraldo).
 
+Supported by [ELLIS Amsterdam](https://amsterdam.ellis.eu/).
+
+<a href="https://amsterdam.ellis.eu/"><img src="assets/images/ellis_logo.png" alt="ELLIS - European Laboratory for Learning and Intelligent Systems" width="150"></a>
+
 [Artificial Intelligence, Culture & Society (AIC&S)](https://www.illc.uva.nl/Research/Organisation/Research-Units/AICS/) is one of the research units of the [Institute for Logic, Language and Computation (ILLC)](https://www.illc.uva.nl/) at the [University of Amsterdam](https://www.uva.nl/en). The group examines how algorithmic technologies shape — and can be shaped by — social, cultural, and ethical concerns, combining perspectives from digital humanities, media studies, and computational social science.
 
 **Lost in translation: Translating between disciplinary cultures via abstract concepts**
