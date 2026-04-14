@@ -18,6 +18,49 @@ Supported by [ELLIS Amsterdam](https://ellis.eu/research/sites/unit-amsterdam).
 The AIC&S Seminar Series explores how, under the impulse of "Artificial Intelligence" technology, abstract concepts (such as taste, trust, and agency) are used and translated differently across disciplinary cultures. In particular, it aims to bring presenters from different disciplines into dialogue — bridging the social sciences, humanities, and computer science — to reflect on how terminology that may sound familiar and unquestioned to many is (re)defined, operationalized, and translated across domains.
 
 ## AIC&S ILLC Seminar Series
+### #8 — Taste <a href="#seminar-8">🔗</a>
+{: #seminar-8}
+**8 May 2026, Lab42 (L1.14), 15:30–17:00**
+
+<a href="assets/images/AICS-sem8-taste.png"><img src="assets/images/AICS-sem8-taste.png" alt="Flyer: Lost in Translation — Theme 2: Taste" width="250"></a>
+
+In this session, we will explore how cultural taste and everyday choices are modeled, shaped and shifted through data, platforms and AI. Presenters will examine how digital traces and recommender systems reconfigure classical understandings of taste and how algorithmic mediation intervenes in what people come to like and choose. Drawing on work in cultural sociology, consumer research and recommender-system design, the session brings together perspectives on algorithmically mediated taste and recommendations, from music to food, highlighting how algorithms not only reflect but also transform preferences. The session invites reflection on how abstract notions of "taste" are operationalized, nudged and negotiated in AI-driven environments.
+
+**Schedule:**
+- 15:30–16:00 — Presentation by Massimo Airoldi
+- 16:00–16:30 — Presentation by Alain Starke
+- 16:30–17:00 — Discussion & Q&A
+- 17:00 onwards — Drinks!
+
+#### Speaker 1: Massimo Airoldi (University of Milan)
+
+**Title:** Cultural taste after data, platforms and machines
+
+**Abstract:**
+This talk examines a central sociological object – cultural taste – in the context of its datafication, platformisation, and algorithmic mediation. Drawing on my previous research on digital traces of taste, taste boundaries on YouTube, algorithmic consumer culture, and techno-social reproduction, I explore several key sociological dimensions of taste today. First, I address a methodological question: how have digital traces reshaped the study of taste in sociology and consumer research? Second, I consider a theoretical issue: to what extent can classical sociological theories of taste formation and circulation help us interpret taste processes on platforms? Finally, I raise an ontological question: as recommender algorithms increasingly shape everyday taste practices, how should we understand taste as a more-than-human phenomenon?
+
+**Bio:**
+Massimo Airoldi, Associate Professor of Sociology, teaches Consumer Culture and Sociology of AI at the University of Milan, Italy. Previously Assistant Professor at Emlyon Business School (France), his research has contributed to the development of digital approaches in cultural sociology and consumer research, and pioneered sociological approaches in the study of algorithms and AI. He is the author of *Machine Habitus: Toward a Sociology of Algorithms* (Polity, 2022).
+
+*More information: [University profile](https://www.unimi.it/it/ugov/person/massimo-airoldi)*
+
+#### Speaker 2: Alain Starke (University of Amsterdam)
+
+**Title:** From Clicks to Calories: Using Nudges and Explanations in Food Recommender Systems to Promote Healthier Food Choice
+
+**Abstract:**
+How does one make preference shifts in the era of digital decision reinforcement? Recommender systems have become ubiquitous online: Where most domains can rely on methods that optimize for current 'taste' only, the food domain seeks to facilitate behavioral and preference shifts for changes in one's diet and preferences. In this talk, I provide examples from research on recipe and food product recommendation, in which we aimed to promote healthier food choice. I introduce methods that focus on diversifying content that a user currently likes but which introduces a healthier alternative. We also move beyond traditional AI and recommender system methods by considering interface aspects, using explanations and nudges to further support healthier food choice.
+
+**Bio:**
+Alain Starke is a researcher at the interaction of social science and computer science, focusing on recommender systems and the psychology of decision making in domains such as food and news consumption. He is currently an assistant professor in persuasive communication for a digital society at the University of Amsterdam. He is also an adjunct associate professor in user modelling and personalization at the University of Bergen, Norway, being part of the MediaFutures Research Centre for Responsible Media Technology.
+
+*More information: [University profile](https://www.uva.nl/en/profile/s/t/a.d.starke/a.d.starke.html#About-me)*
+
+---
+
+
+**<u>Past seminars:</u>**
+
 ### #7 — Abstract Concepts Themselves <a href="#seminar-7">🔗</a>
 {: #seminar-7}
 **13 March 2026, Lab42 (L2.06), 15:30–17:00**
@@ -53,13 +96,6 @@ Video understanding has advanced remarkably in recent years. Powered by deeper n
 Gowreesh Mago is a PhD candidate at the HAVA (Human-Aligned Video AI) Lab, a new interdisciplinary lab at the University of Amsterdam, where he works at the intersection of video understanding and responsible marketing under the supervision of Pascal Mettes and Stevan Rudinac. His research focuses on fundamental challenges in video understanding, with particular emphasis on abstract concepts and their applications in business, marketing, and advertising.
 
 *More information: [Personal profile](https://gowreesh-mago.github.io/)*
-
-
-
----
-
-
-**<u>Past seminars:</u>**
 
 ### #6 — Digital Research Infrastructures in Europe: 12 December 2025, Lab42 (L2.07), 15:30–17:00 <a href="#seminar-6">🔗</a>
 {: #seminar-6}
